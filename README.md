@@ -1,6 +1,4 @@
-# Dashboard de Monitoramento: Mpox Brasil 2026<img width="1024" height="1024" alt="6dd4305e-b1ee-4953-8335-a771184a8bf7" src="https://github.com/user-attachments/assets/f59cce37-8790-400c-bef8-465484795990" />
-
-
+# Dashboard de Monitoramento: Mpox Brasil 2026
 Criei este projeto para transformar dados complexos em um visual fácil de entender. É um dashboard interativo que mostra a situação da Mpox no Brasil agora em 2026.
 
 ### O que ele faz:
